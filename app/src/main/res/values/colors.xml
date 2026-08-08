@@ -1,0 +1,13 @@
+<resources>
+    <color name="background">#F5FBFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="board">#6A5CFF</color>
+    <color name="tile_empty">#DFF4FF</color>
+    <color name="text_dark">#2D235C</color>
+    <color name="text_light">#F9F6F2</color>
+    <color name="accent">#FF7A59</color>
+    <color name="accent_dark">#2D235C</color>
+    <color name="mint">#20C997</color>
+    <color name="sky">#5DDCFF</color>
+    <color name="purple">#7C6BFF</color>
+</resources>
